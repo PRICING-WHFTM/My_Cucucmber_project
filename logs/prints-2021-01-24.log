@@ -1,0 +1,10 @@
+20:32:20.504 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser launched
+20:32:26.000 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser closed
+20:33:42.505 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser launched
+20:33:48.168 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser closed
+20:40:26.953 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser launched
+20:40:30.328 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser closed
+20:40:33.721 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser launched
+20:40:40.573 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser closed
+20:43:05.865 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser launched
+20:43:08.279 [main] INFO  com.company.step_definitions.Hook - chrome-headless browser closed
